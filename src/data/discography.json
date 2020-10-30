@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Pretty Hate Machine",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/01_pretty-hate_jcp2v6.jpg",
+    "year": 1989,
+    "description": "NINE INCH NAILS’ CLASSIC FIRST RECORD, PRODUCED BY TRENT REZNOR WITH FLOOD, JOHN FRYER, KEITH LEBLANC AND ADRIAN SHERWOOD."
+  },
+  {
+    "name": "Broken",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/02_broken_cdrgso.jpg",
+    "year": 1992,
+    "description": "RECORDED IN SECRET TO AVOID INTERFERENCE FROM THE RECORD LABEL, THE FOLLOW-UP TO PRETTY HATE MACHINE TAKES AN UNEXPECTED ABRUPT TURN INTO SHEER AGGRESSION."
+  },
+  {
+    "name": "The Downward Spiral",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/03_tds_fdiu75.jpg",
+    "year": 1994,
+    "description": "A BLEAK AND UNFLINCHING CELEBRATION OF SELF-DESTRUCTION IN THE FORM OF A CONCEPT RECORD THAT SOMEHOW MANAGED TO BECOME A MULTI-PLATINUM WORLDWIDE HIT.  ONE OF THE MOST ADVENTUROUS AND EXPERIMENTAL SOUNDING RECORDS TO EVER TOP THE CHARTS."
+  },
+  {
+    "name": "The Fragile",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/04_thefragile_sfhjz6.jpg",
+    "year": 1999,
+    "description": "HIDING FROM THE WORLD AND HIMSELF IN A NEW ORLEANS STUDIO FOR SEVERAL YEARS, A DAMAGED REZNOR CREATES THE SPRAWLING OPUS THE FRAGILE AND THE PALETTE ONCE AGAIN EXPANDS FOR WHAT TO EXPECT FROM NINE INCH NAILS.  A DENSE AND DIFFICULT LISTEN REQUIRING ATTENTION AND REPEATED LISTENINGS, IT IS NOW CONSIDERED BY MANY HARDCORE FANS TO BE THEIR FAVORITE NIN RECORD."
+  },
+  {
+    "name": "With Teeth",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/05_with-teeth_exudty.jpg",
+    "year": 2005,
+    "description": "AFTER NEARLY DYING MAKING AND TOURING THE FRAGILE, REZNOR CLEANS UP AND REDISCOVERS HIMSELF WITH THE AGGRESSIVE AND ACCESSIBLE WITH TEETH.  GUITARS, HOOKS, DAVE GROHL."
+  },
+  {
+    "name": "Year Zero",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/06_year-zero_wtwtvv.jpg",
+    "year": 2007,
+    "description": "MUSICALLY AND CONCEPTUALLY WAY AHEAD OF ITS TIME.  AN ELABORATE CONCEPT RECORD SET IN THE NEAR FUTURE (OR THE PRESENT, DEPENDING ON HOW YOU LOOK AT THE POST-TRUMP WORLD), EACH SONG  IS A “SNAPSHOT” OF LIFE SET AGAINST ELABORATELY DECONSTRUCTED ELECTRONICS.  A PUZZLE-BOX THAT REWARDS THE REPEAT LISTENER."
+  },
+  {
+    "name": "Ghosts I–IV",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/07_ghostI-V_jov6fi.jpg",
+    "year": 2008,
+    "description": "DESCRIBED AS 'SOUNDTRACKS FOR DAYDREAMS', GHOSTS I-IV IS A SPRAWLING, ENTIRELY IMPROVISED, INSTRUMENTAL JOURNEY.  MEANT TO BE LISTENED TO ON A RAINY DAY OR A LONG NIGHT DRIVE. REZNOR’S CAREER AS A SUCCESSFUL FILM COMPOSER CAN BE DIRECTLY LINKED TO THIS EXPERIMENT."
+  },
+  {
+    "name": "The Slip",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087411/nin-tribute/08_the-slip_hpl7gu.jpg",
+    "year": 2008,
+    "description": "DESCRIBED BY REZNOR AS “GARAGE ELECTRONICS”, THE SLIP WAS THE RESULT OF AN INSPIRED THREE WEEKS FOLLOWING THE COMPLETION OF GHOSTS I-IV.  AN EXPERIMENT IN WORKING WITH A COMPRESSED TIMELINE, THE RESULTS MAKE FOR A NOISY, SLOPPY AND EXCITING LISTEN WITH SEVERAL SONGS THAT HAVE BEEN LIVE STAPLES."
+  },
+  {
+    "name": "Hesitation Marks",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087411/nin-tribute/09_hesitation-marks_dvmu4q.jpg",
+    "year": 2013,
+    "description": "SIMULTANEOUSLY REFERENCING THE PAST WHILE POINTED TO THE FUTURE, HESITATION MARKS FINDS NIN RELENTLESSLY EXPERIMENTING WITH NEW TEXTURES, DEEP GROOVES AND RESTRAINT.  THE RESULT MAKES FOR A DEEP, ACCESSIBLE LISTEN WITH LOTS HIDDEN UNDER THE SURFACE."
+  },
+  {
+    "name": "Not The Actual Events",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087410/nin-tribute/10_ntae_ytejfh.jpg",
+    "year": 2016,
+    "description": "PART ONE OF A THREE EP TRILOGY OF RECORDS.  UNAPOLOGETIC, UNFRIENDLY, DENSE, LYRICALLY COMPLEX, SO-FAR-BEHIND-THE-TIMES-IT’S-AHEAD-OF-ITS-TIME, HIPSTER-REPELLING UNCOMPROMISING MUSIC SMART PEOPLE CAN FUCK TO.  IT MAY NOT BE FOR YOU."
+  },
+  {
+    "name": "Add Violence",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087411/nin-tribute/11_addviolence_cbfpht.jpg",
+    "year": 2017,
+    "description": "PART TWO. THE VIEW WIDENS AND EVERYTHING IS IN QUESTION."
+  },
+  {
+    "name": "Bad Witch",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087411/nin-tribute/12_bad-witch_orgpey.jpg",
+    "year": 2018,
+    "description": "CONCLUSION.  SHADOWS ON THE CAVE WALL."
+  },
+  {
+    "name": "Ghosts V: Together",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087411/nin-tribute/13_ghostVI_mi67ir.jpg",
+    "year": 2020,
+    "description": ""
+  },
+  {
+    "name": "Ghosts VI: Locusts",
+    "image": "https://res.cloudinary.com/pedrokuper/image/upload/v1604087411/nin-tribute/13_ghostV_tnvdkh.jpg",
+    "year": 2020,
+    "description": ""
+  }
+]
